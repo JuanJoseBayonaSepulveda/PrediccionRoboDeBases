@@ -15,8 +15,8 @@ Lograr predecir con un alto grado de certeza en que situación realmente un corr
 ## Dataset:
 Este dataset fue creado por los mismos integrantes de grupo para la realización de este proyecto.
 
-Dataset: [Señas de juego]https://raw.githubusercontent.com/JuanJoseBayonaSepulveda/PrediccionRoboDeBases/main/data_ia_proyecto_ABC.csv
-
+Link:
+ [Señas de juego](https://raw.githubusercontent.com/JuanJoseBayonaSepulveda/PrediccionRoboDeBases/main/data_ia_proyecto_ABC.csv).
 ## Modelos:
 
 Gaussian NB, RandomForestClassifier, DecisionTreeClassifier, SuportVectorClassifier, DNN.
