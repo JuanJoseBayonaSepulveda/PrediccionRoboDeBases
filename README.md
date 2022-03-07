@@ -21,4 +21,8 @@ Link:
 
 Gaussian NB, RandomForestClassifier, DecisionTreeClassifier, SuportVectorClassifier, DNN.
 
+[(code)](https://github.com/JuanJoseBayonaSepulveda/PrediccionRoboDeBases/blob/main/Predicci%C3%B3nDeRobosEnBaseball.ipynb) 
+[(video)](https://www.youtube.com/watch?v=iFulDxMPwqo) 
+[(Repositorio)](https://github.com/JuanJoseBayonaSepulveda/PrediccionRoboDeBases)
+
 
